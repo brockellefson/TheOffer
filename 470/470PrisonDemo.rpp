@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.979/x64" 1561509443
+<REAPER_PROJECT 0.1 "5.979/x64" 1561509587
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -225,7 +225,7 @@
       GUID {9F72359E-EF7E-4F65-9F01-42E8813AAF4B}
       RECPASS 1
       <SOURCE WAVE
-        FILE "01-guitar-190625_1749.wav"
+        FILE "C:\Users\Brock\Documents\Docking Station\The Offer Demos\December22nd\01-guitar-190625_1749.wav"
       >
     >
   >
