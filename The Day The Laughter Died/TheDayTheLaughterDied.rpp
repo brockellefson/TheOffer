@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.985/x64" 1585425535
+<REAPER_PROJECT 0.1 "5.985/x64" 1585548311
   RIPPLE 0
   GROUPOVERRIDE 1 0 0
   AUTOXFADE 1
@@ -14,7 +14,7 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 30.4
+  CURSOR 139.2
   ZOOM 6.44069804069109 0 0
   VZOOMEX 0
   USE_REC_CFG 0
@@ -146,879 +146,23 @@
     <ITEM
       POSITION 3.2
       SNAPOFFS 0
-      LENGTH 27.2
+      LENGTH 183.98933333333335
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {25F7FD26-A41C-40CF-954B-75BE26DB2A49}
-      IID 1712
-      NAME 01-Vocals-190919_1425-glued-02.wav
+      IGUID {E7CD4699-9C60-403C-A63A-051230D72511}
+      IID 5482
+      NAME "02-Verse Vocals-200201_1620-glued-04.wav"
       VOLPAN 1 0 1 -1
-      SOFFS 3.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {E8522FDE-4C6F-4CF7-A5E4-F1017967670F}
-      <SOURCE WAVE
-        FILE "01-Vocals-190919_1425-glued-02.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1214.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 3.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 30414213 R
-      GUID {52874755-DA87-4AE7-9E1F-D637A3E07282}
-      RECPASS 1
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1214.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1225.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 3.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 22514333 R
-      GUID {9720C532-939A-44C6-981D-CC17466A5005}
-      RECPASS 2
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1225.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1234.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 3.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 31897232 R
-      GUID {26022244-2F71-4209-8476-BB819C1239F2}
-      RECPASS 3
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1234.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1244.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 3.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 19754627 R
-      GUID {7991F0E6-B9D0-45C9-82DA-13B8CFB7E2E5}
-      RECPASS 4
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1244.wav"
-      >
-      TAKE
-      NAME "02-Verse Vocals-200201_1609.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 3.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 17747841 R
-      GUID {78FD4D4B-53DC-436A-BE4A-D6D8FE18117E}
-      RECPASS 5
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1609.wav"
-      >
-      TAKE NULL
-      TAKE
-      NAME "02-Verse Vocals-200201_1614.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 3.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 26063870 R
-      GUID {93C8B8E4-59B1-4945-9E50-63A79F6D9C37}
-      RECPASS 7
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1614.wav"
-      >
-      TAKE SEL
-      NAME "02-Verse Vocals-200201_1620.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 3.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 23492176 R
-      GUID {9A9E38EC-0C74-4436-9CC9-360C053FBFC1}
-      RECPASS 8
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1620.wav"
-      >
-    >
-    <ITEM
-      POSITION 30.4
-      SNAPOFFS 0
-      LENGTH 33.6
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {B8431AAC-2E24-4D68-AEE4-361FFFC57B56}
-      IID 1786
-      NAME 01-Vocals-190919_1425-glued-02.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 30.4
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {1274946E-9EBB-412F-A863-A50859B1367F}
-      <SOURCE WAVE
-        FILE "01-Vocals-190919_1425-glued-02.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1214.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 30.4
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 30414213 R
-      GUID {F6566E97-91BA-42B9-8A08-C5301D4F59F4}
-      RECPASS 1
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1214.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1225.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 30.4
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 22514333 R
-      GUID {9102C83B-23B5-4F7D-BCA7-807F7DD5856B}
-      RECPASS 2
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1225.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1234.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 30.4
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 31897232 R
-      GUID {F3731A6C-74BC-4909-B7D9-B1C5528F6E7A}
-      RECPASS 3
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1234.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1244.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 30.4
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 19754627 R
-      GUID {C128DD2F-47F0-4FB5-A990-A9F757FCB36D}
-      RECPASS 4
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1244.wav"
-      >
-      TAKE
-      NAME "02-Verse Vocals-200201_1609.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 30.4
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 17747841 R
-      GUID {45764EC5-788B-4338-A563-52F3BF0932C6}
-      RECPASS 5
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1609.wav"
-      >
-      TAKE NULL
-      TAKE
-      NAME "02-Verse Vocals-200201_1614.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 30.4
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 26063870 R
-      GUID {E5364B46-44E2-491D-ABAB-B0E97E6A974E}
-      RECPASS 7
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1614.wav"
-      >
-      TAKE SEL
-      NAME "02-Verse Vocals-200201_1620.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 30.4
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 23492176 R
-      GUID {136A219A-9161-489A-8A68-C770E50DC315}
-      RECPASS 8
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1620.wav"
-      >
-    >
-    <ITEM
-      POSITION 64
-      SNAPOFFS 0
-      LENGTH 5.6
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {CB4F9D1F-505A-4B77-B678-D41C469285B9}
-      IID 1787
-      NAME 01-Vocals-190919_1425-glued-02.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 64
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {8489B423-0DF8-4BE2-ABCB-A2ABD6BD37E4}
-      <SOURCE WAVE
-        FILE "01-Vocals-190919_1425-glued-02.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1214.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 64
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 30414213 R
-      GUID {420A14ED-06A5-4201-ACD1-65F82AF03A3B}
-      RECPASS 1
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1214.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1225.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 64
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 22514333 R
-      GUID {3C843B20-2296-4C4D-A699-B11481D64DAA}
-      RECPASS 2
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1225.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1234.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 64
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 31897232 R
-      GUID {A6D5AE9C-CFF9-4DA7-A6C6-FEA4D37C6AC9}
-      RECPASS 3
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1234.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1244.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 64
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 19754627 R
-      GUID {B65D6F3D-074B-4DEF-83FA-A0402A23892D}
-      RECPASS 4
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1244.wav"
-      >
-      TAKE
-      NAME "02-Verse Vocals-200201_1609.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 64
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 17747841 R
-      GUID {65313CA5-5282-486B-8A95-206C75A21309}
-      RECPASS 5
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1609.wav"
-      >
-      TAKE NULL
-      TAKE
-      NAME "02-Verse Vocals-200201_1614.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 64
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 26063870 R
-      GUID {73C36AF7-6D2F-439D-BE8C-4D56C20E8FA6}
-      RECPASS 7
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1614.wav"
-      >
-      TAKE SEL
-      NAME "02-Verse Vocals-200201_1620.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 64
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 23492176 R
-      GUID {F0ED328C-3A39-413C-B5AD-009EB22A7E8A}
-      RECPASS 8
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1620.wav"
-      >
-    >
-    <ITEM
-      POSITION 69.6
-      SNAPOFFS 0
-      LENGTH 23.2
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {DA1886FA-69C5-40F8-A1B6-8B9C585D85A0}
-      IID 1860
-      NAME 01-Vocals-190919_1425-glued-02.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 69.6
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {C914AF39-34D8-4CEB-8996-FE83DFD5AF90}
-      <SOURCE WAVE
-        FILE "01-Vocals-190919_1425-glued-02.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1214.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 69.6
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 30414213 R
-      GUID {4D945D05-246F-471C-9514-79303AC22B4F}
-      RECPASS 1
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1214.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1225.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 69.6
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 22514333 R
-      GUID {138EFB7C-7A88-4FD7-A7F8-BC7D6F0B4D91}
-      RECPASS 2
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1225.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1234.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 69.6
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 31897232 R
-      GUID {324C6C37-7F6E-4634-816A-5714D9AB61E8}
-      RECPASS 3
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1234.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1244.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 69.6
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 19754627 R
-      GUID {77BBFA2F-C090-4CED-97F5-FD1DEDDD183B}
-      RECPASS 4
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1244.wav"
-      >
-      TAKE
-      NAME "02-Verse Vocals-200201_1609.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 69.6
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 17747841 R
-      GUID {94E46487-6939-423E-93D1-2D6AE551869D}
-      RECPASS 5
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1609.wav"
-      >
-      TAKE NULL
-      TAKE
-      NAME "02-Verse Vocals-200201_1614.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 69.6
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 26063870 R
-      GUID {12327762-B93F-4D79-B97C-D0FA160ED444}
-      RECPASS 7
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1614.wav"
-      >
-      TAKE SEL
-      NAME "02-Verse Vocals-200201_1620.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 69.6
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 23492176 R
-      GUID {483103C3-2019-4816-A9F4-CD7B6F944432}
-      RECPASS 8
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1620.wav"
-      >
-    >
-    <ITEM
-      POSITION 92.8
-      SNAPOFFS 0
-      LENGTH 6.4
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {3879FD18-714C-4FEE-9E83-2BF60A454065}
-      IID 1731
-      NAME 01-Vocals-190919_1425-glued-02.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 92.8
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {D5D36839-B447-4E18-B004-D33D644589AD}
-      <SOURCE WAVE
-        FILE "01-Vocals-190919_1425-glued-02.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1214.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 92.8
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 30414213 R
-      GUID {BF125D54-7A1D-4853-B575-50B6797CE171}
-      RECPASS 1
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1214.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1225.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 92.8
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 22514333 R
-      GUID {261AEFCB-5D0D-4E38-B39C-8C87EF288B24}
-      RECPASS 2
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1225.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1234.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 92.8
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 31897232 R
-      GUID {A59E998B-0A76-4033-BDBF-3B5608A17066}
-      RECPASS 3
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1234.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1244.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 92.8
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 19754627 R
-      GUID {F7CE3366-AA66-49CB-A873-4DA8889584F0}
-      RECPASS 4
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1244.wav"
-      >
-      TAKE
-      NAME "02-Verse Vocals-200201_1609.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 92.8
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 17747841 R
-      GUID {F9449FDA-21AA-4B38-A1A3-4BEDDBF8005A}
-      RECPASS 5
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1609.wav"
-      >
-      TAKE
-      NAME "02-Verse Vocals-200201_1613.wav"
-      TAKEVOLPAN 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      TAKECOLOR 29475909 R
-      GUID {E7D6A2D4-25AD-4CB9-9C24-A2B7D015DE52}
-      RECPASS 6
+      GUID {5DAD3527-E01C-4695-BA20-3120F0FFB147}
       <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1613.wav"
-      >
-      TAKE
-      NAME "02-Verse Vocals-200201_1614.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 92.8
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 26063870 R
-      GUID {DB990E54-458E-4B67-8899-EF24DE01C497}
-      RECPASS 7
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1614.wav"
-      >
-      TAKE SEL
-      NAME "02-Verse Vocals-200201_1620.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 92.8
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 23492176 R
-      GUID {0139F68C-50DE-44FC-9B0B-072F5E46CC2B}
-      RECPASS 8
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1620.wav"
-      >
-    >
-    <ITEM
-      POSITION 99.2
-      SNAPOFFS 0
-      LENGTH 7.09866666666666
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {4C3CF47B-FEA4-4F5A-B599-3A7CFD54C889}
-      IID 1126
-      NAME 01-Vocals-190919_1425-glued-02.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 99.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {9EAE8D96-4143-4F9C-B6BA-1C44C651F5E2}
-      <SOURCE WAVE
-        FILE "01-Vocals-190919_1425-glued-02.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1214.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 99.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 30414213 R
-      GUID {E48573DB-4981-47BE-AA29-70A7E560B2FC}
-      RECPASS 1
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1214.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1225.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 99.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 22514333 R
-      GUID {8A2B6A4E-EE35-4908-9BA9-BFBEA7BDADAE}
-      RECPASS 2
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1225.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1234.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 99.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 31897232 R
-      GUID {7C02BB75-6DD0-4115-BDA8-EA868F8935D3}
-      RECPASS 3
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1234.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1244.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 99.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 19754627 R
-      GUID {4E9B1AD9-6B1B-4908-BDF3-405CFA9092D1}
-      RECPASS 4
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1244.wav"
-      >
-      TAKE
-      NAME "02-Verse Vocals-200201_1609.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 99.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 17747841 R
-      GUID {3729A2EC-8B69-4C07-8702-5046C7C0EAB0}
-      RECPASS 5
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1609.wav"
-      >
-      TAKE
-      NAME "02-Verse Vocals-200201_1613.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 6.4
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 29475909 R
-      GUID {0D01936D-7ACD-48F1-A035-9C7A6C6650FB}
-      RECPASS 6
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1613.wav"
-      >
-      TAKE
-      NAME "02-Verse Vocals-200201_1614.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 99.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 26063870 R
-      GUID {6E99356C-5EF6-4EC4-BCD7-EE2D3817039D}
-      RECPASS 7
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1614.wav"
-      >
-      TAKE SEL
-      NAME "02-Verse Vocals-200201_1620.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 99.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 23492176 R
-      GUID {F46E1F1E-F44F-44E0-9946-7EAC69D1BED9}
-      RECPASS 8
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1620.wav"
-      >
-    >
-    <ITEM
-      POSITION 106.29866666666666
-      SNAPOFFS 0
-      LENGTH 18.50133333333333
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {31CF4BB1-3B46-41D1-97F5-ACE0DB45CC1B}
-      IID 1730
-      NAME 01-Vocals-190919_1425-glued-02.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 106.29866666666666
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {8CF2A8AB-12B4-40D4-8B22-32F253D74F41}
-      <SOURCE WAVE
-        FILE "01-Vocals-190919_1425-glued-02.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1214.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 106.29866666666666
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 30414213 R
-      GUID {2227BFC5-E6E7-4721-94C0-9327DFFE0C9B}
-      RECPASS 1
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1214.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1225.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 106.29866666666666
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 22514333 R
-      GUID {C06B61EA-313C-4AFF-8FF9-ED285C1DCE10}
-      RECPASS 2
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1225.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1234.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 106.29866666666666
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 31897232 R
-      GUID {1FD1F2B2-89C9-44AE-8717-FDF3A9A6DB52}
-      RECPASS 3
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1234.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1244.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 106.29866666666666
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 19754627 R
-      GUID {955CB3CC-DC73-4AFD-AD53-E547479243A3}
-      RECPASS 4
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1244.wav"
-      >
-      TAKE NULL
-      TAKE
-      NAME "02-Verse Vocals-200201_1613.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 13.49866666666667
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 29475909 R
-      GUID {90039ABA-2912-48EB-9FD6-ED3F9B805E2D}
-      RECPASS 6
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1613.wav"
-      >
-      TAKE
-      NAME "02-Verse Vocals-200201_1614.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 106.29866666666666
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 26063870 R
-      GUID {82F62017-A53A-4CE8-9C21-19304DF91BF1}
-      RECPASS 7
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1614.wav"
-      >
-      TAKE SEL
-      NAME "02-Verse Vocals-200201_1620.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 106.29866666666666
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 23492176 R
-      GUID {E0BF1B18-0C12-45B9-B039-43538F03A6A6}
-      RECPASS 8
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1620.wav"
-      >
-    >
-    <ITEM
-      POSITION 163.2
-      SNAPOFFS 0
-      LENGTH 23.98933333333335
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {C7197B0E-2C8D-4CDF-B4CE-C4809FADC81A}
-      IID 1134
-      NAME 01-Vocals-190919_1425-glued-02.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 131.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {9078927E-3C0F-4203-A6BC-07A5170B222D}
-      <SOURCE WAVE
-        FILE "01-Vocals-190919_1425-glued-02.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1214.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 131.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 30414213 R
-      GUID {546DBD1C-E5C2-4BDF-8A6C-CAEAC650E128}
-      RECPASS 1
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1214.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1225.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 131.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 22514333 R
-      GUID {67980E64-C589-4333-A41C-1D3DA7ED7199}
-      RECPASS 2
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1225.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1234.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 131.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 31897232 R
-      GUID {C78A4F19-5122-451E-B8A4-3FA209EA2796}
-      RECPASS 3
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1234.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1244.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 131.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 19754627 R
-      GUID {72F6112D-DD57-4DFB-88EE-FB2F510CBD78}
-      RECPASS 4
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1244.wav"
-      >
-      TAKE NULL
-      TAKE
-      NAME "02-Verse Vocals-200201_1613.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 38.4
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 29475909 R
-      GUID {70A3CC3A-A3F9-4C37-823B-0E8DFF47CC87}
-      RECPASS 6
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1613.wav"
-      >
-      TAKE
-      NAME "02-Verse Vocals-200201_1614.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 131.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 26063870 R
-      GUID {B058D3C4-8EC4-4146-9B05-2326CE52C688}
-      RECPASS 7
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1614.wav"
-      >
-      TAKE SEL
-      NAME "02-Verse Vocals-200201_1620.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 131.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 23492176 R
-      GUID {4544536B-FF3F-4049-933C-D343E8EF9BD2}
-      RECPASS 8
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1620.wav"
+        FILE "02-Verse Vocals-200201_1620-glued-04.wav"
       >
     >
   >
@@ -1063,7 +207,7 @@
         ICAgICAgICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQiI+CiAgICAgICAgICAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+MTYwLjMxMDAwMDAwMDAwMDAw
         MjI3IDAgMCAqICogKiAqICogMTYuMDMwMDAwMDAwMDAwMDAxMTM3IDEKNTYuMjI5OTk5OTk5OTk5OTk2ODc0IDEwIDAgMCAxNDkuNjIwMDAwMDAwMDAwMDA0NTUgMTIw
         IDAgMCAxCjAuNDAwMDAwMDAwMDAwMDAwMDIyMiAwIDEuNSAwICogKiAqIDwvUGFyYW1ldGVycz4KICAgICAgICA8L1ByZXNldERhdGE+CiAgICA8L1ByZXNldD4KPC9Q
-        cmVzZXRDaHVua1hNTFRyZWU+Ctzl4t0=
+        cmVzZXRDaHVua1hNTFRyZWU+CoIElIA=
         AAAQAAAA
       >
       FLOATPOS 0 0 0 0
@@ -1073,879 +217,23 @@
     <ITEM
       POSITION 3.19999999995343
       SNAPOFFS 0
-      LENGTH 27.2
+      LENGTH 183.98933333333335
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {F6AF785B-6679-4132-8D95-97B6BD5D3B50}
-      IID 1712
-      NAME 01-Vocals-190919_1425-glued-02.wav
+      IGUID {8CE08BDE-325B-45D1-8301-CAF9873949A2}
+      IID 5483
+      NAME "02-Verse Vocals-200201_1620-glued-05.wav"
       VOLPAN 1 0 1 -1
-      SOFFS 3.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {63CC5F6F-5126-45AB-BE8A-2ABE7A0F2746}
-      <SOURCE WAVE
-        FILE "01-Vocals-190919_1425-glued-02.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1214.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 3.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 30414213 R
-      GUID {5287B597-61C9-48E9-BB82-7CDDBE03094D}
-      RECPASS 1
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1214.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1225.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 3.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 22514333 R
-      GUID {02D11F6D-5279-4039-A4E7-FFA10C35329E}
-      RECPASS 2
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1225.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1234.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 3.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 31897232 R
-      GUID {728555CE-3162-43DE-9A9B-EDCB59472FF2}
-      RECPASS 3
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1234.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1244.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 3.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 19754627 R
-      GUID {04485E5D-E755-4839-8D3D-7A85C41978B1}
-      RECPASS 4
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1244.wav"
-      >
-      TAKE
-      NAME "02-Verse Vocals-200201_1609.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 3.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 17747841 R
-      GUID {A1A1AC69-7ED5-49F9-AA2A-ACDB3DC4DD47}
-      RECPASS 5
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1609.wav"
-      >
-      TAKE NULL
-      TAKE
-      NAME "02-Verse Vocals-200201_1614.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 3.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 26063870 R
-      GUID {3B15E357-BECF-4761-8E34-0C2FA5FCA4D2}
-      RECPASS 7
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1614.wav"
-      >
-      TAKE SEL
-      NAME "02-Verse Vocals-200201_1620.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 3.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 23492176 R
-      GUID {A84C6F45-E366-4046-8DA3-6FD5174AA477}
-      RECPASS 8
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1620.wav"
-      >
-    >
-    <ITEM
-      POSITION 30.40000000002328
-      SNAPOFFS 0
-      LENGTH 33.6
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {59F74455-1865-4A2E-A9FD-BFA6E163F6CC}
-      IID 1786
-      NAME 01-Vocals-190919_1425-glued-02.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 30.4
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {276C7751-7C56-4DBC-81E1-B4B34485B949}
-      <SOURCE WAVE
-        FILE "01-Vocals-190919_1425-glued-02.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1214.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 30.4
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 30414213 R
-      GUID {C303A19D-333E-4F35-A91A-15CD17D2DF13}
-      RECPASS 1
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1214.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1225.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 30.4
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 22514333 R
-      GUID {2CC5C049-D918-4B7E-8C15-5243B8E5228B}
-      RECPASS 2
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1225.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1234.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 30.4
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 31897232 R
-      GUID {64B97B68-265A-4CE1-9BF1-963EBB794AB9}
-      RECPASS 3
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1234.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1244.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 30.4
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 19754627 R
-      GUID {6DCF67E6-3473-4C42-B413-EF790523AD7F}
-      RECPASS 4
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1244.wav"
-      >
-      TAKE
-      NAME "02-Verse Vocals-200201_1609.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 30.4
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 17747841 R
-      GUID {32CDFBF2-B6EF-450B-B636-DF2CD362E800}
-      RECPASS 5
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1609.wav"
-      >
-      TAKE NULL
-      TAKE
-      NAME "02-Verse Vocals-200201_1614.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 30.4
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 26063870 R
-      GUID {0ABCD108-1F64-451B-8911-3712190F3B69}
-      RECPASS 7
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1614.wav"
-      >
-      TAKE SEL
-      NAME "02-Verse Vocals-200201_1620.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 30.4
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 23492176 R
-      GUID {A65001AF-DE6E-4D2C-AAC9-288F9E836A7D}
-      RECPASS 8
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1620.wav"
-      >
-    >
-    <ITEM
-      POSITION 64
-      SNAPOFFS 0
-      LENGTH 5.6
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {A7D46AD0-FBB2-429B-B60F-CC6F3F86CF6E}
-      IID 1787
-      NAME 01-Vocals-190919_1425-glued-02.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 64
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {570FD003-0035-4EF5-A6DF-53EF30930F80}
-      <SOURCE WAVE
-        FILE "01-Vocals-190919_1425-glued-02.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1214.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 64
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 30414213 R
-      GUID {B489575D-D4EE-4E08-A719-FAC0D83883E6}
-      RECPASS 1
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1214.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1225.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 64
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 22514333 R
-      GUID {252F77C7-AD66-42AE-8710-C566C82BB443}
-      RECPASS 2
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1225.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1234.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 64
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 31897232 R
-      GUID {D0838926-C097-440D-96D0-0874201113F7}
-      RECPASS 3
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1234.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1244.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 64
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 19754627 R
-      GUID {8FC78F8F-05E6-4080-9B80-776F8C317A47}
-      RECPASS 4
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1244.wav"
-      >
-      TAKE
-      NAME "02-Verse Vocals-200201_1609.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 64
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 17747841 R
-      GUID {5DEF6EF2-B51F-446D-8318-7592B5471B08}
-      RECPASS 5
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1609.wav"
-      >
-      TAKE NULL
-      TAKE
-      NAME "02-Verse Vocals-200201_1614.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 64
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 26063870 R
-      GUID {91A626B4-802C-4549-9440-A741F72965E0}
-      RECPASS 7
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1614.wav"
-      >
-      TAKE SEL
-      NAME "02-Verse Vocals-200201_1620.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 64
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 23492176 R
-      GUID {D62E6645-FF04-4ACC-BA76-E0356EA75C88}
-      RECPASS 8
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1620.wav"
-      >
-    >
-    <ITEM
-      POSITION 69.59999999997672
-      SNAPOFFS 0
-      LENGTH 23.2
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {F661D8AB-B5E4-4DA3-8D4C-B5088F1DA63A}
-      IID 1860
-      NAME 01-Vocals-190919_1425-glued-02.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 69.6
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {56996AE9-6CDF-4902-8660-50E2F0B59CED}
-      <SOURCE WAVE
-        FILE "01-Vocals-190919_1425-glued-02.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1214.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 69.6
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 30414213 R
-      GUID {4C4762F0-C0E5-44AB-9C43-96440F51A755}
-      RECPASS 1
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1214.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1225.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 69.6
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 22514333 R
-      GUID {C8A8F722-5F7F-49D6-B6DD-109826BA0223}
-      RECPASS 2
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1225.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1234.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 69.6
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 31897232 R
-      GUID {3F60E1C8-D6AF-4E32-A64B-81181A5FD961}
-      RECPASS 3
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1234.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1244.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 69.6
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 19754627 R
-      GUID {2DFF3174-1C77-4A6A-9A01-CCBB9D9C3C9E}
-      RECPASS 4
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1244.wav"
-      >
-      TAKE
-      NAME "02-Verse Vocals-200201_1609.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 69.6
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 17747841 R
-      GUID {847FFF44-965E-4E14-80AE-6C32192FED41}
-      RECPASS 5
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1609.wav"
-      >
-      TAKE NULL
-      TAKE
-      NAME "02-Verse Vocals-200201_1614.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 69.6
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 26063870 R
-      GUID {3198DA8B-3026-40F7-9598-4DE63D716942}
-      RECPASS 7
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1614.wav"
-      >
-      TAKE SEL
-      NAME "02-Verse Vocals-200201_1620.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 69.6
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 23492176 R
-      GUID {EA0A5568-3DF4-4DB0-B582-03E7331EBBAD}
-      RECPASS 8
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1620.wav"
-      >
-    >
-    <ITEM
-      POSITION 92.80000000004657
-      SNAPOFFS 0
-      LENGTH 6.4
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {7F98240A-FD76-4497-AF48-80F63E9B146B}
-      IID 1731
-      NAME 01-Vocals-190919_1425-glued-02.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 92.8
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {E223E240-C701-4EA6-8FF2-A630642F3948}
-      <SOURCE WAVE
-        FILE "01-Vocals-190919_1425-glued-02.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1214.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 92.8
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 30414213 R
-      GUID {75779787-1BF8-4466-BCFA-D317F399FB43}
-      RECPASS 1
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1214.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1225.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 92.8
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 22514333 R
-      GUID {997B9C1B-AC9D-4B37-AB82-C1771676B5E5}
-      RECPASS 2
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1225.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1234.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 92.8
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 31897232 R
-      GUID {49D0EE40-84C6-4927-A947-7CAD0CF25000}
-      RECPASS 3
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1234.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1244.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 92.8
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 19754627 R
-      GUID {D8ED1AFA-89CB-432A-B7C8-75ECC19D9062}
-      RECPASS 4
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1244.wav"
-      >
-      TAKE
-      NAME "02-Verse Vocals-200201_1609.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 92.8
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 17747841 R
-      GUID {AA82DD5F-6986-4958-A9C1-0A56DFCD9D47}
-      RECPASS 5
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1609.wav"
-      >
-      TAKE
-      NAME "02-Verse Vocals-200201_1613.wav"
-      TAKEVOLPAN 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      TAKECOLOR 29475909 R
-      GUID {4AE62C42-4D6B-439D-8BDB-51FE24DB90F6}
-      RECPASS 6
+      GUID {4BE8545D-B329-45DA-ADC3-CB2A7C790BEA}
       <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1613.wav"
-      >
-      TAKE
-      NAME "02-Verse Vocals-200201_1614.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 92.8
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 26063870 R
-      GUID {D8DBA3A8-B6FD-420D-B452-001D405039FC}
-      RECPASS 7
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1614.wav"
-      >
-      TAKE SEL
-      NAME "02-Verse Vocals-200201_1620.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 92.8
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 23492176 R
-      GUID {1B87AB94-F83C-4EDF-898E-6ACC28C505F1}
-      RECPASS 8
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1620.wav"
-      >
-    >
-    <ITEM
-      POSITION 99.19999999995343
-      SNAPOFFS 0
-      LENGTH 7.09866666666666
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {0747297D-3339-4ED0-BB99-50DF953E9A5C}
-      IID 1126
-      NAME 01-Vocals-190919_1425-glued-02.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 99.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {0B47CC4C-22B7-452E-A577-EC27DEC7A3BA}
-      <SOURCE WAVE
-        FILE "01-Vocals-190919_1425-glued-02.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1214.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 99.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 30414213 R
-      GUID {0097E95A-6D58-40E2-9B5A-B080D7323165}
-      RECPASS 1
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1214.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1225.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 99.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 22514333 R
-      GUID {CEAF6227-A0AF-48E8-9A42-97CEF0C24B0E}
-      RECPASS 2
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1225.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1234.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 99.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 31897232 R
-      GUID {781B58B8-FA54-43E5-B252-411ACDE47E80}
-      RECPASS 3
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1234.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1244.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 99.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 19754627 R
-      GUID {A69ECC94-AFF1-44D3-807C-494EB4948E66}
-      RECPASS 4
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1244.wav"
-      >
-      TAKE
-      NAME "02-Verse Vocals-200201_1609.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 99.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 17747841 R
-      GUID {FAD5B3E9-136E-43A5-8537-8C014ED70667}
-      RECPASS 5
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1609.wav"
-      >
-      TAKE
-      NAME "02-Verse Vocals-200201_1613.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 6.4
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 29475909 R
-      GUID {60DE4004-B841-419B-83AD-12A6A6FE2D80}
-      RECPASS 6
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1613.wav"
-      >
-      TAKE
-      NAME "02-Verse Vocals-200201_1614.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 99.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 26063870 R
-      GUID {9394D126-11E9-4BE8-8097-2E9B5EDE3494}
-      RECPASS 7
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1614.wav"
-      >
-      TAKE SEL
-      NAME "02-Verse Vocals-200201_1620.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 99.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 23492176 R
-      GUID {4255A0DD-0AAF-48E5-9C50-C43E5316ABA8}
-      RECPASS 8
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1620.wav"
-      >
-    >
-    <ITEM
-      POSITION 106.2986666666111
-      SNAPOFFS 0
-      LENGTH 18.50133333333333
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {0E372C64-DDE0-43AA-8417-0389461A97B3}
-      IID 1730
-      NAME 01-Vocals-190919_1425-glued-02.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 106.29866666666666
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {D3921DA6-6970-4E45-AF0A-BB55BB75079C}
-      <SOURCE WAVE
-        FILE "01-Vocals-190919_1425-glued-02.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1214.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 106.29866666666666
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 30414213 R
-      GUID {9C1440FD-A646-4557-BAA2-2CF56D800CD5}
-      RECPASS 1
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1214.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1225.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 106.29866666666666
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 22514333 R
-      GUID {75F6C50C-451F-4710-BF63-BFE10A94768C}
-      RECPASS 2
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1225.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1234.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 106.29866666666666
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 31897232 R
-      GUID {2D1F74ED-148E-45F7-81BA-11592114EA38}
-      RECPASS 3
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1234.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1244.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 106.29866666666666
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 19754627 R
-      GUID {4E343585-CD15-4400-B13A-8DD472607A87}
-      RECPASS 4
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1244.wav"
-      >
-      TAKE NULL
-      TAKE
-      NAME "02-Verse Vocals-200201_1613.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 13.49866666666667
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 29475909 R
-      GUID {5A137FBA-3CD3-4767-AC17-92690816A105}
-      RECPASS 6
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1613.wav"
-      >
-      TAKE
-      NAME "02-Verse Vocals-200201_1614.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 106.29866666666666
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 26063870 R
-      GUID {2858EDD0-60F8-4BBD-B89D-794CD3443B7C}
-      RECPASS 7
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1614.wav"
-      >
-      TAKE SEL
-      NAME "02-Verse Vocals-200201_1620.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 106.29866666666666
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 23492176 R
-      GUID {2AE8170C-3B17-4C90-9961-5EC549D465D3}
-      RECPASS 8
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1620.wav"
-      >
-    >
-    <ITEM
-      POSITION 163.19999999995343
-      SNAPOFFS 0
-      LENGTH 23.98933333333335
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {D90BBC5E-DB36-48C9-8D97-325BB409A6A2}
-      IID 1134
-      NAME 01-Vocals-190919_1425-glued-02.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 131.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {ECDF4C9F-5F89-4A5C-90CC-034454562104}
-      <SOURCE WAVE
-        FILE "01-Vocals-190919_1425-glued-02.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1214.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 131.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 30414213 R
-      GUID {C14BDCC9-C5B7-4E9C-A964-C0E768371C9E}
-      RECPASS 1
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1214.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1225.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 131.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 22514333 R
-      GUID {27315B7B-E934-4D4D-8659-80B7B2E997E0}
-      RECPASS 2
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1225.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1234.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 131.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 31897232 R
-      GUID {D5192E42-D534-4E66-BBDD-2242A96ADC08}
-      RECPASS 3
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1234.wav"
-      >
-      TAKE
-      NAME "01-Verse Vocals-191227_1244.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 131.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 19754627 R
-      GUID {DA7EBE53-CD30-439A-BA13-1D291DFD71A4}
-      RECPASS 4
-      <SOURCE WAVE
-        FILE "01-Verse Vocals-191227_1244.wav"
-      >
-      TAKE NULL
-      TAKE
-      NAME "02-Verse Vocals-200201_1613.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 38.4
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 29475909 R
-      GUID {317BABAD-00C0-41D4-847C-742C51B68CAB}
-      RECPASS 6
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1613.wav"
-      >
-      TAKE
-      NAME "02-Verse Vocals-200201_1614.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 131.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 26063870 R
-      GUID {877E0BBF-68D0-4478-8C79-FBCF94A271D2}
-      RECPASS 7
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1614.wav"
-      >
-      TAKE SEL
-      NAME "02-Verse Vocals-200201_1620.wav"
-      TAKEVOLPAN 0 1 -1
-      SOFFS 131.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 23492176 R
-      GUID {18DAACEE-5F21-4D8E-83D2-84024633802F}
-      RECPASS 8
-      <SOURCE WAVE
-        FILE "02-Verse Vocals-200201_1620.wav"
+        FILE "02-Verse Vocals-200201_1620-glued-05.wav"
       >
     >
   >
@@ -1961,7 +249,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -2190,55 +478,55 @@
       DOCKED 0
       BYPASS 0 0 0
       <VST "VST: Guitar Rig 5 (Native Instruments GmbH)" "Guitar Rig 5.dll" 0 "" 1315522357<5653544E694735677569746172207269> ""
-        NUdpTu5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAPERAAABAAAA//8QAA==
+        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
-        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
+        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
         AG5vIHNvdW5kABAAAAA=
       >
       PRESETNAME "no sound"
@@ -2316,45 +604,23 @@
     <ITEM
       POSITION 48.04068974089824
       SNAPOFFS 0
-      LENGTH 99.0826132507612
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {C6F3259F-FA7B-4699-86E8-41ABF50E027E}
-      IID 1875
-      NAME "06-New Slide-200314_2143-01-glued.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {835CB822-438C-49E8-991A-9541F538E947}
-      <SOURCE WAVE
-        FILE "06-New Slide-200314_2143-01-glued.wav"
-      >
-    >
-    <ITEM
-      POSITION 147.18522219199619
-      SNAPOFFS 0
-      LENGTH 53.61477780800382
+      LENGTH 152.75931025910177
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 23.270966 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {3AD2AD1D-787F-4C51-9433-440BB38FAA01}
-      IID 1875
-      NAME "06-New Slide-200314_2143-01-glued.wav"
+      IGUID {8D2144E6-111A-4FCD-A01F-55F570DFFE1C}
+      IID 5484
+      NAME "06-New Slide-200314_2143-01-glued-04.wav"
       VOLPAN 1 0 1 -1
-      SOFFS 19.14297116423973
+      SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {BE4D1B81-26CB-4D96-85B4-FE6667B513F7}
+      GUID {D7357DDE-CB93-4DA9-A3BC-01296E727676}
       <SOURCE WAVE
-        FILE "06-New Slide-200314_2143-01-glued.wav"
+        FILE "06-New Slide-200314_2143-01-glued-04.wav"
       >
     >
   >
@@ -2477,57 +743,57 @@
       DOCKED 0
       BYPASS 0 0 0
       <VST "VST: Guitar Rig 5 (Native Instruments GmbH)" "Guitar Rig 5.dll" 0 "" 1315522357<5653544E694735677569746172207269> ""
-        NUdpTu5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAKISAAABAAAA//8QAA==
+        NUdpTu5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAKQSAAABAAAA//8QAA==
         LWluLQIAAAAjTkkjQ1MjRG9jdW1lbnQjI05JI1NvdW5kU2hlbGwjU291bmQjAAAAAAAAAAAAAABFAQAAYXRhZAIAAABkbnNzYmlsehYAAAAQAAAAeNpjYmBg0PX00zV1
         z/QDMhkAEaUCJ2F0YWQCAAAAb2ZuaWJpbHopAQAACwMAAHjanVLLbsMgEDzXX4G4p7hSDlWFiSr3cY2S9FT1QBxso9hgwZLWf1/8TGIpadQbMzuzsyzQxU9ZoIMwVmoV
         4Yf7ECOhEr2TKovwx+Zt9oiRBa52vNBKRFhpjBYsoFY75UWpPprnYYhZECBEK6MrYUAKyzz0hOKlYJ+xLiu0+eYqQ7FxKsnrL0raUqfiDnJt2Is0e7RO8oJnlPRc05Wc
         tm2ILVf7IaE5s3cngRu0khmaU9JSrbEXNufEz+AvomAwjsTEfeSv6dDS6In2BPaZHMDIrYNxHSPRYc8ceOEEi/1SwdSUdHAoOivMzApgq+UTIWuoC2HvRu1Y7XqTSfOL
-        Ya9pKhI4y7rd3O/guazs9WnPhP8dtbvyLWv5I+MENm9DyfiNWfALUiP0bmF0YWQCAAAAdHNycGJpbHqxEAAA+6oAAHja7V3ZVuLO1u9z20+R462LJjPJf9l9FgIOrTgA
-        Krr6poAQSjJ1BhEf6bzc9wpfBUJSBQQIKhU99k1LJdn1y6491xDmvN7+17dv3/7vv9++Hfzn2TSYJ831oG393ON+sHuMZnXtHrT0n3s3raOCssd4PrB6wLAt7eeeZe8x
-        //n1/UB3C9DyfDcwNcsvdAeBNWQ6ATR6BSswO5r7cw892LVNBz2FbnBAd1iAPdSDWmJFVVYUfo/pu8DURrY7vYJ6NsGj7RZiNBJqgV3XTlr4sMXC70Etjqt5WkoXPjQR
-        6CbwmTpwGV5hOOEfSflHkhie5dm9X9+/M8yBZwdWr9ADPugAT2N0w+4Ao2BqvmtbtjlBNoCok4Jp97QpUNiD6KWBZWkG6lDeK04pIa64CAbGUNQFg/4d9OFzIWaHxyAm
-        FaCvmR66RYzumb+LCV9GUVkWdWiB8D0aZ/Gt6ObwRkPztaQpakx/mgmCsNmSz7ovz/zv9g3onIgu+yCItefyz597OCmcWEEPIHkNXX2C2ggbYvQ2jgF8rdAB1vDn3t6y
-        S1MgoUTZrtYrhBQipop7zPwvD3YM9HcfGJ4WMpjovLgCG4YbBD1oM5i0LLyFA0Ip9NEdSPAB6hE949sm8CcPhMxDQ5XcFA5pqBA+7BI3cguUcdqTwYDl2UicWqFKdbVy
-        14dPGnpXYAQTwVqkgaiEQokhYFzNtBEvTfA8ATP7CSdwi0tgFOOHF94+ueSlM3jCRELKkouYPBYXBfIg1k3Xj5EdFAkxXyH8Mi69UGfObAvppJFRCdKoRMpwXB0en1zd
-        8MLhsWTp5cbvuu9e0lUGjlAGLsfKwKYoQzGP0iQsFwSGzypQ6YQimeIMu1Q5Mfwme8e19eqlf3t/3xx9GdgvA5svlVDSJFnIGmikE5rFHP36cZMHL+4w+Nu7fbw7OfEe
-        y18q8aUSOVMJHhPk8mQkT62MyrCURKQGhtXZv90fqv6wMjh71s4tVahc61/RxqeLNjjMHqKUMKMIzT8dSQ9/32fHqte/Zpvmnaccj90zFV5/GdFF6eEWpae0rRHFbKgT
-        +MwxgFZiP39IO7egCwCPZwCP0Vgxl1bxst+PEXL08bUIfK0BUqyBbfQwJuYAZP12hrIOvLDx1jYCE/OUPxRZEmSFPtLzGdBzaMKwcW7E2RxArMQYtb7PVKalsjzJZKOC
-        hauDRYhfgdF8+ozXElvA0apad8hwWXPnFCqRg2uMr/ha+6zdHN7tQxfWGtWHe/kTZQk+euMeemMOBAuoZ9dCEVuQnCyucRvnqC51jilKQGqSEau6bTtr9OcNNGiNmi/A
-        87VY3NBg24kNYvMD0Y0husDyHNvTcsjHIAYZWDnE5zzN8C06blGWubzgdGOcDa1ru735OCM3QOEVVjvQXJ+5sj0Y2oX8jb3h4TaIafrIxeUQpUagrFk96oOeHnOsiTrC
-        yynObGcZtshhsUQTIigDlJoxkywta769klYUnIz3H9vtnvPSqVUu6jcPdUUqqpd0azcsEZywOc6+OXbjCGNObW7ZVMOeg9y7xs3Q1Z5RmwWMmdDkJ9c555OMEaW2Vp4y
-        xboQp92Br+UqhxXxHDZXuatE5K55gnYkz6AdQQM1ckwFaXu+ihNHJRIjP48xD3xUSIy5Ugw1iWNQ8n549z9SNCEIeLMYoQBDc19Iue913uxVnEvl2us92E5wZfBaO8Gz
-        safaDXc29U47QbO5R9oJnC280G5wZfc8u8G1ubfZjXBn8DDvAeiguJF5R08vNm+ewIp4KTywENuzJa2Lz0eJ6p0tDa4ccAFqwbEk6M/nJ83KkG4VnScSVT7Hiaq8bZ56
-        ZMdKZLvDPAVsrbiS10JsY66g3x3E+GSVPkDPd7uWH5dffNfuaMVKuFI+T2zsOVnL9DuF5/aTwnJfczWrm8ATxRwA9OpJgc0IjVgdGYOPlzuEU3WhtWVmRbcileonvsqs
-        Hu1V0bKWPZcTidxIUL0Hz9Ix1x4eB5z2V7xonF9XRp9nrdpshw8ImK4R7h7qw5BS5Z8/V66tI8lgUDSkeX8qtmnaVvTjAoTrJ5nTePOT9+c4gD5wmXDZq4RutlCu4v+J
-        ufnHsEeI/JP2YwSe0OsaEPXUgb4JvOHkFaYt79P3AGJdm4HhQ8eYMm7KY7GI0ggv1MauloAqhPPxVi/cxYUuB44z/WvXc9LS9nPSV6N4SnWj5VAUZoOaVmwNx1Y3f/ha
-        prN84rwk5QViPViakeeGhbdGxpmLnE/4JQbzbWtpM7p4lhWZxalhRpapENtLwoxhtiu6Q+RVUZVLvCptYMReIfPvk3cuY8WbJZwyvhWubDplCxhjL3PemUomihuEv9XO
-        ocAL2vCy2HVB/5HjDPNre+nnW+MuSZggXE1IzVazZJOoFYQimSoPHiXA1s+PhhWzcT0sParBvnP9Nff+xoHUfBh1m+ep92qMruqON1tGtVN8dzG+O0ye84Ov3o7DJ/ic
-        J2BXbcwWMOEGGAYhhJb+vzjROCFZsDNMMWbS2p3U8zNq6m6m8zaU/p2A2UbidwIsow17n6B4jQq8Miouscu2JGQ9FCCNymz7s3h5fV9yrsBNs6k8Hl8Ds907Kn++jQ18
-        3jY2yNsXkT7KivKcb8CATbzQxbRsZrrB7msZ+adZRv5hNjm8yXp3ns56dxXfOhftUT1qZ3RTKUQiL1U1a+XL1qjoD//qytm+1Qs6o/bX/vINV7hvu78862RFPudEk6td
-        2/IBDGdIu9MJqcJkzKAB/XFc80oOw1sWCaLRDowJB3sdBlqIVnLknzgjgJq74S1eTBQx3UV649qjaRs2vvM9DGzPxwYKdbMwntK7z+zONUYcP7Bsq7DswuL8La7NFzb0
-        NCbcYj9TZ7slvIweXk7FWtO/8Z+FS1GDEqnO6aq8Ro2PQBfp6niFNp9enLbWazQ+h+u7AaHQqcq8qSK/V6nsFQq8k6wtPnBh6VkLIi9xKh1gJzNgJwgT04J5KE7Ex3uU
-        fX9y1gptQI0kdjI04O2eRcudQKoDWGIY5+yUQCTHI2DpTENDOtuZWSp4V3VvX06chny3L3l8lRvVrOs3slSfzURx6qewUZVys4kt+dNczaZd7Lq10yfsS6oo8nRgHcYj
-        d+jmYXX9YZwmHwIPW6H5Q5BVQaRUze0l1Vzc2UkSx1GC1MJOddA6Bi5MsiSJlJzLbYzqFrgQdOm7u6YeWwGg58D7ek7ifz1kwj3qe30OIYg1DgKPtv6fvMSTFfaI/maR
-        xtN5MmBhULF4chcrKhytnVFPl9YcvEuLPsta5hyouVhcYAWOp6WBT82XOXRN+EKgk3hBpGTWb+FpslXhFnZc4IcHfPqa5UF/jNsvRRUVWhibTm8eY9PRNNw1ioKsUONh
-        ohQRvJ3v8HrjFIc4QOQoeHmZpTbq4e+aJr6cuzW4Xzq6P2yxfPXv6KsI8+o5u68EJ7vepaY3KHJXKRmrI1JrkoyLVQSBUsCVkuCEyxSpl/QWkglWloWPaTQ5/Nj4VgjJ
-        sGd287f3oPftovPI7vPj57KhS9e1s/Ku7Oa9HbjMiQZ6TNlzDGQk/73eivL5sqLK5yhle8SKfGKvDK01Ub3YrN/Bnj/IQc7qJ6eF+4RtUCRFprWmDcQx3uRPunKEBe2L
-        wTolTNWYQVV7ZNEXo5u48nHjfPxJB548H6GjMRV03dU8z463qux36pJ62qgqQ1luu5ewdeoN2/rXvMPSeQfuUziUarI2qQn8wAXkkaY/JJWWgSI/M5CXtdutwarJZEUV
-        5Dw4PWjjXk8ocZRAncWjeGZpxOhRKrVUx4mTGaP/IV7xp1XhK/t+6qQ7x5YozbM1jNSJdzqALoOYTejPpUZBZtkSpWkb/LTcyoD4KMoHzUZZfJlCJfqCWcO2zXiZws1J
-        qzQqjRviX7vb3tcvr4PD6ujdw4VsByrlIFQQPscShfT1/6yiUKqW6VzyMR1ohV/OSHyxxAmUDLrOE6h4HBWnULJQukCAEshlAbTGTyRAiRgolRN4SsGnLhGoJNqeT5cJ
-        PDIhT6pCKUDQSwSqEm37pCsEHoU2HofDCj6EaaJklhweB8TnAJCAAxJyAEjEAYk5ACThgKQcAJJxQHIOAJVwQKUcAFJwQAp9QCaHnwuFGyJKeHgCD08dD3GSNW6GKOER
-        CTwidTwSgUei7VdNmcAjU+dPicBToo5HIfAotPF4sf1p2oZN3/54PIGHuv3xBAIPdfvjiQQe6vbHkwg81LMxTybwULc/XonAQ93+eAqBh7r9SUqzmh84tL2Xl7NFcPFa
-        +jKkvna9k7bQjA4cP3WR2QddAyCy5AIz9FLMoW1Pjx+Z1vSvjh4qsFXpDVggXpudceXGVX+//xKAigs9Z/zhFgEIn6Kwj+1gC4UB31kg8qqcs21+kxq68DE08KC4/PCC
-        g6LuFlzQHf76Hv5yNWD40NS600m2XieR0JlIHETXDM3tAR9M3hU19aE+O/4huhouI93D9H/Wzhh2dzg9GmI6qXvGXGk9YGBCPbkaYtGewlebrBpSxHCdi2FPf6Lrvq3r
-        BnnQ/+pezmB3OF3QtbIjtiRgHXFbdNQchV/yYDiiI26+I44VVawjPumI+Hh7IozJWKesnZqaiulhzOC5EOsyg0StEDvU+PsIzIR0gTQA0RkZgWuEZtIHeni2G5Kb6S9X
-        1yK000VcUUtUZQrNyawlMDsTEcB4VkyYlomP/OoB4wRWwvgo4HzMNmDCmo4kGRdBcfuOxDUdKVwJ60jasCNusSNptQjyOOPkzAIYnQiM/nvKKHwCKXwbi928yC3IWyGz
-        wC3hmryGawouBqVt2XahPfsZ2cbnkG3RF65WMUwScHFWtjB0ky5eY96IL9tsyLUlJi78VM5rLdwSgVNW86+k4h5Jzcw/7Asyr+FhCzgb8y76gg3BvJbztu4h/izmJHyY
-        c7eLfj2cxMf8+jYRxFyPaxwTLym4feUyhxIXKIeJljut7gn/tkLSH7/Eb+BcngvfohuAZoAxwrJBMDcdzIUwLkSARWjJOexLTv1KI5XEalNq3KuoJQHZlBpPUuO2osbP
-        qAlvQU2YURPfgpo4oya9BTVpRk1eRY1IcyfkJuJKmJzI+S8q/bTnDfHIMzylN8HDb4cn8kpTJMpb8FmZUVNfRW3RLkY69DqVXDR+EdlX6CZh4SJymyjnQTEyU9HPdzuX
-        8GCarC/Jh8W9xdpWYWqSjcl3kcPMP+xkri2Uf1I0I1iF0B4n9MnFeQcR25KusCwsMdMFPJ3c0NdnyeEiDcERv9W7pL+Kst2rrI7V3vFNothn2auo273K6shpxavgBaI5
-        OYxv8SzgeAPbx+tKcdtEguNf6cpdnKNyUJxTnKh5o+M9Y6rRjZMCaBLeJo/H3OBL8qxu3Bhf8bX2Wbs5vNuHLqw1qg/3crgWvJidrKAIa4/g3YIsL/NrPwm8BVl27al9
-        27CAjTk73n9st3vOS6dWuajfPNQVqahe6luyQBXWHsG/DVlJXvtloi3IlpS1p4ZsQ5Vdu6d+C6pyae0MyhZUE0VIPbx2m+FSlLUfNd1KCmIe8Pd9dqx6/Wu2ad55yvHY
-        PVPhtmjVtftNtqDKKWs3vcZBz4L1nJbwF6r202I+6hKEzqA4/Yn6iBI+pm+7pgksoIcA4vO6w5tAN/yUaWGS1wN/wES/o6zfdnsoBExqRmT+H5HA74WWjgIv5AMnrqn4
-        azLdAOPvpBa6g8Aa/vr+/w8kdiZhdGFkAgAAAEROU1NiaWx6FgAAABAAAAB42mNiYGDQ9fTTNXXP9AMyGQARpQIn
+        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
         AG5vIHNvdW5kABAAAAA=
       >
       PRESETNAME "no sound"
@@ -2611,16 +877,16 @@
       FADEOUT 1 23.156629 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {1AF0D424-2955-4E54-8E00-1723F4CD96EB}
-      IID 1766
-      NAME 06-Solo-200210_2020-glued.wav
+      IGUID {FFD364CF-0ECB-4BBD-AFD3-23649D3809D8}
+      IID 5485
+      NAME 06-Solo-200210_2020-glued-04.wav
       VOLPAN 1 0 1 -1
-      SOFFS 0.01872471757994
+      SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {952971E6-3B14-4441-9815-9257CBB8E735}
+      GUID {9D31787D-8BAF-41AA-A5AA-CF5E634556F7}
       <SOURCE WAVE
-        FILE "06-Solo-200210_2020-glued.wav"
+        FILE "06-Solo-200210_2020-glued-04.wav"
       >
     >
   >
@@ -2654,53 +920,53 @@
       DOCKED 0
       BYPASS 0 0 0
       <VST "VST: Guitar Rig 5 (Native Instruments GmbH)" "Guitar Rig 5.dll" 0 "" 1315522357<5653544E694735677569746172207269> ""
-        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
+        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
-        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
+        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
         AG5vIHNvdW5kABAAAAA=
       >
       PRESETNAME "no sound"
@@ -2778,155 +1044,23 @@
     <ITEM
       POSITION 24
       SNAPOFFS 0
-      LENGTH 45.6
+      LENGTH 177.6
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.010667 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
+      FADEOUT 1 23.333841 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {3F21E398-B109-4683-BD34-263BE044F0E9}
-      IID 1714
-      NAME 03-Lead-190828_1610-glued-01.wav
+      IGUID {FB0F9A72-B8CD-4F91-9443-4D148D78E054}
+      IID 5486
+      NAME 03-Lead-190828_1610-glued-04.wav
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {A6EC1BFF-ABF5-4AA9-885F-17F711E01B1E}
+      GUID {AE5C2768-7A36-4FEE-9B03-9408E97CDF26}
       <SOURCE WAVE
-        FILE "03-Lead-190828_1610-glued-01.wav"
-      >
-    >
-    <ITEM
-      POSITION 69.6
-      SNAPOFFS 0
-      LENGTH 29.6
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1.1 0.01 0.002514 1 1 0
-      MUTE 0
-      SEL 0
-      IGUID {7D47E289-7313-4198-9954-553563521263}
-      IID 1863
-      NAME 03-Lead-190828_1610-glued-01.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 45.6
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {33B8CBE9-BDA2-436E-838A-0529C35F0931}
-      <SOURCE WAVE
-        FILE "03-Lead-190828_1610-glued-01.wav"
-      >
-    >
-    <ITEM
-      POSITION 99.19748614492262
-      SNAPOFFS 0
-      LENGTH 16
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1.1 0.01 0.002514 1 1 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {1D8153D7-554F-45ED-BDE2-4AFE35FB70AF}
-      IID 1128
-      NAME 03-Lead-190828_1610-glued-01.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 75.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {F906640E-DAB5-4826-81F5-A17230C1EB04}
-      <SOURCE WAVE
-        FILE "03-Lead-190828_1610-glued-01.wav"
-      >
-    >
-    <ITEM
-      POSITION 115.19748614492261
-      SNAPOFFS 0
-      LENGTH 16
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {320A30C8-6736-4DDB-9ADE-69A08579E21F}
-      IID 1122
-      NAME 03-Lead-190828_1610-glued-01.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 91.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {6D35075C-8F86-4FDD-9AC8-70BB59247FC5}
-      <SOURCE WAVE
-        FILE "03-Lead-190828_1610-glued-01.wav"
-      >
-    >
-    <ITEM
-      POSITION 131.19748614487605
-      SNAPOFFS 0
-      LENGTH 16
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {550CBA90-EF51-4ED3-B552-DEC066AA551D}
-      IID 1128
-      NAME 03-Lead-190828_1610-glued-01.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 75.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {42E382A0-B2A3-4C02-917B-F8A914BA5B1F}
-      <SOURCE WAVE
-        FILE "03-Lead-190828_1610-glued-01.wav"
-      >
-    >
-    <ITEM
-      POSITION 147.19999999995343
-      SNAPOFFS 0
-      LENGTH 16
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {CAA91753-692C-428F-8FDE-5EF99D0430A1}
-      IID 1122
-      NAME 03-Lead-190828_1610-glued-01.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 91.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {C16FA831-8985-4CFA-9868-77B1D826B7EC}
-      <SOURCE WAVE
-        FILE "03-Lead-190828_1610-glued-01.wav"
-      >
-    >
-    <ITEM
-      POSITION 163.2
-      SNAPOFFS 0
-      LENGTH 38.4
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 23.333841 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {318AF17D-615C-46E1-9971-FF849C99A25E}
-      IID 1132
-      NAME 03-Lead-190828_1610-glued-01.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 107.2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {59DF54D1-CB87-4629-8202-8D45C86128C1}
-      <SOURCE WAVE
-        FILE "03-Lead-190828_1610-glued-01.wav"
+        FILE "03-Lead-190828_1610-glued-04.wav"
       >
     >
   >
@@ -2945,7 +1079,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
-    TRACKHEIGHT 365 0 0
+    TRACKHEIGHT 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -2960,45 +1094,45 @@
       DOCKED 0
       BYPASS 0 0 0
       <VST "VST: Guitar Rig 5 (Native Instruments GmbH)" "Guitar Rig 5.dll" 0 "" 1315522357<5653544E694735677569746172207269> ""
-        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
+        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
-        N4zleNDgLzrh0PrnmC7kL4N+mTGCzZ04G/6WSD4Bf/3UGGF0YWQCAAAAdHNycGJpbHpUDAAA228AAHja7V3bdto6E+5/26fw4rbL9QEMZi/SvRJyLEmaBpq0e/VGsQUo
-        2BbxAUhfcr/SL/koYw42IeB2pzeNZXnm02hmNKMT3OXV9/+9e/fuX/zuXevvmWlwE2g7CFsHFemjWOGgpWEdWYODyrfeKa9WOMcFlg4MbMGDioUr3N+f3rcGNo8sx7U9
-        E1ourw09a8Q9eMjQecszH6B9UCEfatgck69IhTHQRjzSCYdmQ6w166oqV7i+DUw4xXbwhnA2wSO2+RiNQkqQZuOkRKYlFluHlIxt6MAlLFxkEtBd4HJXwOZklZOqfynq
-        X4rCyaIsVj69f89xLQd7ls7rwAUPwIHcwMAPwOBN6NrYwqaPbIgIE97EOgyAIh2RRgPLggZhWK8IASUiFZvAYARKWHDkX6uPZnwsDocjQuKRC02HVKmFdeZrcbQxalMU
-        CUML0HbcduKqpDKtaEAXJkVh4fKvOc+jxTO9Ddpi73Z68iz8Or0DuDb9/H16cFBhSbHE+IGH0u/I2wmCU6aLSWvGBnAh/wCs0UGlsuhVAIRqFLahzlMKoVBrFW7+yUEP
-        Bvm7DwwHUgGnmAsrsDG4gacjzDHakmnFGFAtdEkNoviAcCTfuNgErv8BFR7pqqQS7VJqEC7SUhWlDGWWtt8Z6DDqiQuLmpQGDzUXTSBpKzA8X7GyNAgVqpQMAs6GJiay
-        NMHMBxM9Ih+usACGEH+caX3yylkuYF+IKS1LXjL6KGQVshXbpu3GyFpCSs1XKH+d1V404DrYIjZpFDSCZVRCY2j3Pt9D+9uXr2b3aKA9HQ6Mjtc93KsxiCljEEtsDOIS
-        YxDKqE3VxYrAyUUVajmhUKfOPA/379od8aQr37nCzfBebeLDNwf75mDLZRLqMk2uFg00lhMKTeL8y/B0hp+fnsX7ow8P58r90815/y3meDOJkpmEzCjyod+TF1ZBY1hI
-        IjQD9HgpVJ/PqmPRG5/8grjT/Yat/Y4MUsoMpLdoYyt6JDH+kKSEBVVo/utQe27vBr+k0cX9sfjUkz9LHdiRfjy+OdEF2iNltaexqRNlfOjYc7kzgKzEf35Udu5BMwDP
-        IoBnpK+4L5bwpd+PEUr7x9dL4esNiWENsaEzQiwByKu7COUVcGjhHTY8kxkpP6p1pVpX94/0MgJ6iUxEC+d6XCwBxHaMEfZdrh1MlZVJJ2/bTLg6zEJ8C4zm02d2LrEH
-        xvAYaiNOKpo7L6ESDnCXxvfhj8vDbyOxrfz41RlND41O7w9KnF3SYp20WAJeBnX0jqpYRnOKDI2bDI7NhYPjEiNIW5IRmzrG4zX2swULWmPmGXgujNWNdDZOfJBYHoh2
-        DNEGljPGDiyhHL0YpGeVEN94EuHLDty1el0qC047xnkLNWzr83FGaYCiG2buANoud4MdRP1C+frecFgfxHVdMsSVECVMoTyx9L13+vKYY03UQV8vGcx2lmHXJCaW6CIC
-        ZUhSM87P0orm2ytphcHJRbc6g5faXW8EBfUUVkVdur5+WynKF2BIYu4IY85s7sSljr0EufeJFKE7mZEyCxiR0pQn17mUk4yRpLZWmTLFq2qcdnsuLFUOW2Nz2FLlrkoq
-        dy0TtNN6BO0UGaRQ4trE2ss1OXHaSGOU5zGWQY5qGmOpDKOZxDEkeT+6/49MmqQIOFGMwCPq7vkl9V42mr1Ickul9vIRbCe4CoxaO8GTe6TajXTyjk47QZN/RNoJnA1G
-        od3gKj7y7AZX/tFmN8pdYIR5DUAtIZd7J19ni/MnsDV2KtyziNiLJa3Z76P9vQ9j++ym2pRGX/4RBkC+7+ln1n6XieVUoiqXOFGtb5qnnuLYiLA9KlPA1otn8npEbNwN
-        crVhjK/e3D9Ax7U1y42nX1wbP0ChTXfKl0mM+rjoNP1O4dn9ZGK5D21oaQm8Wq0EAJ2rZILNoE7sijiD3y93oEt11Nty0aSbsJfZT3aX2VV4VgUWnfZcTCQcRo6rx4/P
-        w7OT5ol3OxKP8dHV6ePJ4M/Zqxad8AEepxn09FAfUUrtv37e2HhANIMj0RB0fraxaWIrfLgGdP8kdxEffnJ+nnnIBTZHt70qpLJFchX3ZyzNnwaeEvIT+HEKJqS5BiKc
-        HpBrAmfkNyEoeR3eQ8SwNj3DRWMjEFwg45pA0giHWqMGE1A8XY+3dHqKi7z2xuPgr12vSSubr0nfTOMl1VzbofawGtS1Ym/4bGnlw9czx4sXzhtKWSBeeQsz8tKI8M4o
-        uHJR8gW/xGFudy4tostmWaFbDBwz8Ux87C9TbozxXWGNmtysNesNuankcGIv0PnXyTsXiWJrCWedPQp3aI4PLWA8O4XzzqVkok1c+kln+E/jHonwxxW+6P2aDL+8HfX4
-        A/e4KwqjCDc+qWg3SzGNWkEoOlEnW5Pa9NYSxfsZeHocNCefhfPB29r7lgOp+TDqrsxL78cxumP7Od82qp3iu4/x3TP6XB58V9/j8AnNygTs5jvjCzh6AIYjCJE1+C8u
-        NPokeVxgibGQ1e5kPr+gpe5mOS+n9u8EzCYavxNgBX3Y6wTFa0zghVFxQ1x0JKHopQDLqITxy9eTR0OrPTZmo472oX106X39cORM/7yDDXLZDjbUN59E+l12lJf8AAbq
-        shNdXA9zwQG7t23kf8w28t/mkMNW9rvL+9nv3mSPzoVnVE+/FxymlhAJR6mnjta5fWp4SIQnoj7yPpgz8dvbzE3OHe6bni8vulhRzjXR5K2GLRcgukKqBQtSvN9nyEDu
-        czznlVyGtygSJL3tGb4E9QcOWYRWcuVfLSJAijVaxYmJEqHbxG5sPA3KmP6d5zDEjst0FGGz4MTCa6/szhWGEm9Z2OIXvcjOxDYYa77GyCG5A9Q9LTilFdj0qVUdq9e9
-        /lfbQ/2jfxzjfDp7Sp9aWW7Pu1q9dW0vZcpLzTivCRc331quQPEFpruTfC2+amHRLQu16rbXMWh0HzHiHdeGwDdM0ikU0Arzy9mc83jeAJ4jx9n/TMZtEtcYEDi7z4UX
-        ueelrnmBy5rfAaIyHiS8TyK+bWYCOpdPg8eu0z2fwOa16D1fyq/vOS6uL3q/nfdQtus99rXv1kypQvnMjeshc+9b72OndE68XikQLZ/wbUjqztauX+aaWsLisKclhLcq
-        B1cskyHGoLc6a8EFgyRuy162HL4zoB1d6kwHpT4aRIFj+JZ8klx0yHzFGVgbBUFleHMydwN1YDBm77+lWOCENs2/9k2t0RTAwG50n7WLBwMjvUVwNZcO0kbHeGqtYSQ2
-        qgwjKWEk5WXUndI9wJy0mpEk1poMI3lzRvIaRlVRYRhVN2dUXcNIqbN9VNucUW0NI1VqMIyUnIykLCMlxUjKKAMruDrLhk1IYm+RWGNqsZ38N6mEQ12wyQbM+DiyoZeu
-        87GHC/e9Ekn7ZON4P8x6PNugTy4Y0Nl6Ys/Bkz2AiV0ET9GH0WN4cTzPSkhIRFRIavU1UlNZNWhsKrZrOHMLik0uodjCwyOrBKZUWXVWCwssZFFIVGJaVKlN4zmlFhyR
-        SQmO7kKfE902FE5dLb9Gk3XZzcLyYzZnv0SGPTDOLbtwc3hKeL3xy4XHOtP4xKk/vq4bj+SqzI5H0iZD7BzHNQOTrKisf5WkohyvSRLUji6cX8WJ3baY8JMX8GOlPBff
-        hBUANMAzwZIj2gk6MxPnUARMCJNscVqQ0S8jlQQzATUpTU0qRi2JWAJq8jaoyRG16jaoVSNqtW1Qq0XUlG1QUyJq9VXUUpmyT85X15TLCQf/rNEHnHPiqUd4GlvBI2+G
-        JxyVAiTqNuSsRtSaL6KW9YuhDb3MJLPOLyQrbU425eFCcnIOci0hdFPh46tN+beCbHZBwlirZGfF+MAlG/6VAzQ1pkzmyrKqGcLyf0Qood9ITyqFYktYJRFK4qV5NsjK
-        OdQXiG9C+2DxbqslYbywqCnNzZqyOtpY0RR21mGu7+IqjgXGzhC77GRFXOb3evy03CCEOSotYU7ZwuJcq00x1bCiP++YhITJ57E05Lq89sy3UJyssnYGeAOiVbW6dpl5
-        A7Jyo7728thNyDara7dubSIEsb72NrlN0Krq2kObm5BVGmtvnt+IbH3ttv4NyIprVzzjkSdjjsFEY2ZuMZhyJBwB9S7hj7wRHtFPxfWxbZrAAgPKP96PQCsB/2c2eD+5
-        Au6QC5/D1AvbOhmHk8Q9nYSFJNi6yBqQ0Y84Vd/XCZ/8SdH5H+D79P7/5BbsNmF0YWQCAAAARE5TU2JpbHoWAAAAEAAAAHjaY2JgYND19NM1dc/0AzIZABGlAic=
+        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
         AG5vIHNvdW5kABAAAAA=
       >
       PRESETNAME "no sound"
@@ -3105,145 +1239,23 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 9.63936054259539
+      LENGTH 201.63532001354218
       LOOP 1
       ALLTAKES 0
       FADEIN 1 3.20367 0 1 0 0
-      FADEOUT 1.1 0.01 0.039361 1 1 0
-      MUTE 0
-      SEL 0
-      IGUID {23FA606F-EFA9-4778-81C0-F8FA2FFB6E0D}
-      IID 7
-      NAME 09-Guitar-200315_1220.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 31.89620383263816
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 23680380 R
-      GUID {8D1C213B-110E-4B3C-8EE7-CB8EC478D701}
-      RECPASS 12
-      <SOURCE WAVE
-        FILE "09-Guitar-200315_1220.wav"
-      >
-    >
-    <ITEM
-      POSITION 9.6
-      SNAPOFFS 0
-      LENGTH 19.22261031621228
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1.1 0.01 0.039361 1 1 0
-      FADEOUT 1.1 0 0.02261 1 1 0
-      MUTE 0
-      SEL 0
-      IGUID {BD54266C-AC9B-40EA-98E1-04EC8BB3BE27}
-      IID 4050
-      NAME 09-Guitar-200315_1220.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 41.53556437523353
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 23680380 R
-      GUID {6B3C5BD9-447A-4BDC-879F-C83488234831}
-      RECPASS 12
-      <SOURCE WAVE
-        FILE "09-Guitar-200315_1220.wav"
-      >
-    >
-    <ITEM
-      POSITION 28.8
-      SNAPOFFS 0
-      LENGTH 9.6
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1.1 0 0.02261 1 1 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {26864DE3-12CD-4B40-AAE0-0941C85F90ED}
-      IID 4
-      NAME 09-Guitar-200315_1220.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 28.73556437523353
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 23680380 R
-      GUID {190614BB-6097-44D6-B153-CFA2D886173A}
-      RECPASS 12
-      <SOURCE WAVE
-        FILE "09-Guitar-200315_1220.wav"
-      >
-    >
-    <ITEM
-      POSITION 38.4
-      SNAPOFFS 0
-      LENGTH 3.2
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1.1 0.01 0.039361 1 1 0
-      MUTE 0
-      SEL 0
-      IGUID {EB2E16EA-D5A4-4AD3-B051-81EEAE7E5DFA}
-      IID 7
-      NAME 09-Guitar-200315_1220.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 38.33556437523353
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 23680380 R
-      GUID {DB6F58BB-9B09-4ED2-BBCB-BA5D0EE959FC}
-      RECPASS 12
-      <SOURCE WAVE
-        FILE "09-Guitar-200315_1220.wav"
-      >
-    >
-    <ITEM
-      POSITION 41.56063945733503
-      SNAPOFFS 0
-      LENGTH 9.63936054266497
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1.1 0.01 0.039361 1 1 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {A9544BE7-F467-4F81-9AB0-C02D304EB766}
-      IID 4050
-      NAME 09-Guitar-200315_1220.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 41.53556437523353
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 23680380 R
-      GUID {7851A2D6-54E1-47B8-BBA1-49351FBE2FC1}
-      RECPASS 12
-      <SOURCE WAVE
-        FILE "09-Guitar-200315_1220.wav"
-      >
-    >
-    <ITEM
-      POSITION 51.2
-      SNAPOFFS 0
-      LENGTH 150.4353200135422
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 23.39377 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {86C61AB9-0C19-444B-AE43-A8CD3902163C}
-      IID 6
-      NAME 09-Guitar-200315_1220.wav
+      IGUID {C064CD22-1817-461F-A252-3EE4F36729C3}
+      IID 5487
+      NAME 09-Guitar-200315_1220-glued-06.wav
       VOLPAN 1 0 1 -1
-      SOFFS 51.1749249178985
+      SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      TAKECOLOR 23680380 R
-      GUID {31346E7F-27A7-4E7C-A268-DE0B5797E1BB}
-      RECPASS 12
+      GUID {DDD138C8-2A9D-4359-99F9-F80032B0DFE9}
       <SOURCE WAVE
-        FILE "09-Guitar-200315_1220.wav"
+        FILE "09-Guitar-200315_1220-glued-06.wav"
       >
     >
   >
@@ -3262,7 +1274,7 @@
     SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 88 0 0
+    TRACKHEIGHT 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -3288,7 +1300,7 @@
         ICAgICAgICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQiI+CiAgICAgICAgICAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+MTYwLjMxMDAwMDAwMDAwMDAw
         MjI3IDAgMCAqICogKiAqICogMTYuMDMwMDAwMDAwMDAwMDAxMTM3IDEKNTYuMjI5OTk5OTk5OTk5OTk2ODc0IDEwIDAgMCAxNDkuNjIwMDAwMDAwMDAwMDA0NTUgMTIw
         IDAgMCAxCjAuNDAwMDAwMDAwMDAwMDAwMDIyMiAwIDEuNSAwICogKiAqIDwvUGFyYW1ldGVycz4KICAgICAgICA8L1ByZXNldERhdGE+CiAgICA8L1ByZXNldD4KPC9Q
-        cmVzZXRDaHVua1hNTFRyZWU+CmFtZT0=
+        cmVzZXRDaHVua1hNTFRyZWU+CoIElIA=
         AAAQAAAA
       >
       FLOATPOS 0 0 0 0
@@ -3298,145 +1310,23 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 9.63936054259539
+      LENGTH 201.63532001349563
       LOOP 1
       ALLTAKES 0
       FADEIN 1 3.20367 0 1 0 0
-      FADEOUT 1.1 0.01 0.039361 1 1 0
-      MUTE 0
-      SEL 0
-      IGUID {BECA2979-AE51-4E4A-9899-0EECA9F11F00}
-      IID 7
-      NAME 09-Guitar-200315_1220.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 31.89620383263816
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 23680380 R
-      GUID {E463FBDF-8686-4847-9BC4-7E1B50CCA5B2}
-      RECPASS 12
-      <SOURCE WAVE
-        FILE "09-Guitar-200315_1220.wav"
-      >
-    >
-    <ITEM
-      POSITION 9.59999999997672
-      SNAPOFFS 0
-      LENGTH 19.22261031621228
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1.1 0.01 0.039361 1 1 0
-      FADEOUT 1.1 0 0.02261 1 1 0
-      MUTE 0
-      SEL 0
-      IGUID {E677C8E3-0C01-4600-B339-EAED879EC07D}
-      IID 4050
-      NAME 09-Guitar-200315_1220.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 41.53556437523353
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 23680380 R
-      GUID {3722B2DE-230C-4CC7-B63C-3B13D3176686}
-      RECPASS 12
-      <SOURCE WAVE
-        FILE "09-Guitar-200315_1220.wav"
-      >
-    >
-    <ITEM
-      POSITION 28.80000000004657
-      SNAPOFFS 0
-      LENGTH 9.6
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1.1 0 0.02261 1 1 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {B6AC3F1E-C788-444D-B10F-0443872D7611}
-      IID 4
-      NAME 09-Guitar-200315_1220.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 28.73556437523353
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 23680380 R
-      GUID {FF361C90-8647-4524-93C5-80F28625D45F}
-      RECPASS 12
-      <SOURCE WAVE
-        FILE "09-Guitar-200315_1220.wav"
-      >
-    >
-    <ITEM
-      POSITION 38.40000000002328
-      SNAPOFFS 0
-      LENGTH 3.2
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1.1 0.01 0.039361 1 1 0
-      MUTE 0
-      SEL 0
-      IGUID {3B7BE291-72B2-4E92-853F-01A8DC71AF0B}
-      IID 7
-      NAME 09-Guitar-200315_1220.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 38.33556437523353
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 23680380 R
-      GUID {EF590A25-6DB0-47A4-8988-E21906273DBE}
-      RECPASS 12
-      <SOURCE WAVE
-        FILE "09-Guitar-200315_1220.wav"
-      >
-    >
-    <ITEM
-      POSITION 41.56063945731148
-      SNAPOFFS 0
-      LENGTH 9.63936054266497
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1.1 0.01 0.039361 1 1 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {1B48A241-3232-43A1-86FC-3FF4DC842B98}
-      IID 4050
-      NAME 09-Guitar-200315_1220.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 41.53556437523353
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      TAKECOLOR 23680380 R
-      GUID {A0C6ED7A-DC5C-4B70-8550-01F971C92983}
-      RECPASS 12
-      <SOURCE WAVE
-        FILE "09-Guitar-200315_1220.wav"
-      >
-    >
-    <ITEM
-      POSITION 51.19999999995343
-      SNAPOFFS 0
-      LENGTH 150.4353200135422
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 23.39377 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {514E17C7-3252-4C6C-A237-1D4466148313}
-      IID 6
-      NAME 09-Guitar-200315_1220.wav
+      IGUID {38F8DC86-90B6-4F43-B1D3-B641F1BC8DE9}
+      IID 5488
+      NAME 09-Guitar-200315_1220-glued-07.wav
       VOLPAN 1 0 1 -1
-      SOFFS 51.1749249178985
+      SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      TAKECOLOR 23680380 R
-      GUID {19A2A11B-9B43-4303-9BDB-2112850BB226}
-      RECPASS 12
+      GUID {F520508A-73E2-41CD-B40A-730CF387DFCD}
       <SOURCE WAVE
-        FILE "09-Guitar-200315_1220.wav"
+        FILE "09-Guitar-200315_1220-glued-07.wav"
       >
     >
   >
@@ -3455,7 +1345,7 @@
     SEL 0
     REC 0 1024 1 0 0 0 0
     VU 2
-    TRACKHEIGHT 24 0 0
+    TRACKHEIGHT 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -3537,155 +1427,23 @@
     <ITEM
       POSITION 25.34928723488871
       SNAPOFFS 0
-      LENGTH 44.25071276511129
+      LENGTH 176.25071276511127
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.010667 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
+      FADEOUT 1 23.380636 0 1 0 0
       MUTE 0
       SEL 0
-      IGUID {5D235201-F889-4AA7-98C0-2FDE1698C128}
-      IID 1716
-      NAME 06-Drums-190829_1728-glued-02.wav
+      IGUID {18589232-6ED1-4234-9B2A-DEEDF2368D9C}
+      IID 5489
+      NAME 06-Drums-190829_1728-glued-03.wav
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {E0DE2B6E-C78D-470D-9DC4-5D5768FD5DDC}
+      GUID {E176A535-9E84-4934-B5F7-2AAE3382828A}
       <SOURCE WAVE
-        FILE "06-Drums-190829_1728-glued-02.wav"
-      >
-    >
-    <ITEM
-      POSITION 69.6
-      SNAPOFFS 0
-      LENGTH 29.6
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1.1 0.01 0.002514 1 1 0
-      MUTE 0
-      SEL 0
-      IGUID {925F8BD6-AB38-4671-A89B-B46D7BA0F289}
-      IID 1865
-      NAME 06-Drums-190829_1728-glued-02.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 44.25071276511129
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {F447F8FE-202E-4DC4-A384-49D0FBB22BF9}
-      <SOURCE WAVE
-        FILE "06-Drums-190829_1728-glued-02.wav"
-      >
-    >
-    <ITEM
-      POSITION 99.19748614492262
-      SNAPOFFS 0
-      LENGTH 16
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1.1 0.01 0.002514 1 1 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {15606050-67F6-4BD6-9639-ED7CCAAB62D6}
-      IID 1130
-      NAME 06-Drums-190829_1728-glued-02.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 73.8507127651113
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {75413EE8-C8AE-4DF5-9DD4-C640B9DC2A61}
-      <SOURCE WAVE
-        FILE "06-Drums-190829_1728-glued-02.wav"
-      >
-    >
-    <ITEM
-      POSITION 115.19748614492261
-      SNAPOFFS 0
-      LENGTH 16
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {A149AC8A-A758-4A71-B799-45BA4A5ED5CD}
-      IID 1124
-      NAME 06-Drums-190829_1728-glued-02.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 89.8507127651113
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {950A8B3C-257B-4A96-98B9-88C0BB1B15E3}
-      <SOURCE WAVE
-        FILE "06-Drums-190829_1728-glued-02.wav"
-      >
-    >
-    <ITEM
-      POSITION 131.19748614487605
-      SNAPOFFS 0
-      LENGTH 16
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {AA730E9C-8720-4587-8D36-544C16D24C76}
-      IID 1130
-      NAME 06-Drums-190829_1728-glued-02.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 73.8507127651113
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {4E027B19-C653-4793-9F42-06ECDD877951}
-      <SOURCE WAVE
-        FILE "06-Drums-190829_1728-glued-02.wav"
-      >
-    >
-    <ITEM
-      POSITION 147.19999999995343
-      SNAPOFFS 0
-      LENGTH 16
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 0.01 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {6F63E83A-98FB-445B-BB5C-E53C076CA1A5}
-      IID 1124
-      NAME 06-Drums-190829_1728-glued-02.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 89.8507127651113
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {1FA4D5ED-E41E-46BF-BB2B-64D06AFF8552}
-      <SOURCE WAVE
-        FILE "06-Drums-190829_1728-glued-02.wav"
-      >
-    >
-    <ITEM
-      POSITION 163.2
-      SNAPOFFS 0
-      LENGTH 38.4
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0
-      FADEOUT 1 23.380636 0 1 0 0
-      MUTE 0
-      SEL 0
-      IGUID {2B26E80D-B543-42B4-94D4-3EC86E596DE5}
-      IID 1125
-      NAME 06-Drums-190829_1728-glued-02.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 105.85071276511128
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {CC4CF041-8D24-4ACD-9E64-F9D61A50884B}
-      <SOURCE WAVE
-        FILE "06-Drums-190829_1728-glued-02.wav"
+        FILE "06-Drums-190829_1728-glued-03.wav"
       >
     >
   >
@@ -3924,7 +1682,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 0
+    SEL 1
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
